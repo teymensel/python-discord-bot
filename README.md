@@ -11,12 +11,18 @@ Vexon, özel olarak tasarlanmış bir Discord botudur. Bu bot, çeşitli özelli
 - **OpenAI Entegrasyonu:** OpenAI GPT-3 teknolojisi ile sohbet özellikleri sunar.
 - **Durum Güncellemeleri:** Botun durumunu günceller ve gösterir.
 
+## Gereksinimler
+
+  Python 3.8 veya üzeri
+  `discord.py` kütüphanesi
+
 ## Kurulum
 
 1. **Depoyu Kopyalayın:**
    ```bash
    git clone https://github.com/kullaniciadi/vexon-discord-bot.git
    cd vexon-discord-bot
+   pip install discord.py
 2. **Povershell Açın**
    Dosyanın üzerine gelip Shift + Sağ tıklayıp povershell'i açın ve şu komutu girin
    ```bash
