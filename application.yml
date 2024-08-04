@@ -1,0 +1,22 @@
+server:
+  port: 2333
+  address: 0.0.0.0
+
+logging:
+  file:
+    name: lavalink.log
+    max-history: 10
+    max-size: 10MB
+  level:
+    root: info
+    lavalink: info
+
+lavalink:
+  password: "youshallnotpass"
+  resumable: true
+  bufferDuration: 3000
+  frameBufferDuration: 5000
+  sourceName: lavalink
+  shards: 1
+  heartbeatInterval: 10000
+  op: 1
