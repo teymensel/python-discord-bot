@@ -17,3 +17,7 @@ Vexon, özel olarak tasarlanmış bir Discord botudur. Bu bot, çeşitli özelli
    ```bash
    git clone https://github.com/kullaniciadi/vexon-discord-bot.git
    cd vexon-discord-bot
+2. **Povershell Açın**
+   Dosyanın üzerine gelip Shift + Sağ tık ile povershell açın ve şu komudu girin
+   ```bash
+   python bot.py
