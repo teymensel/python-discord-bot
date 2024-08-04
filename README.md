@@ -1,4 +1,4 @@
-# Vexon Discord Bot
+# Vexon Discord Bot Altyapısı
 
 Vexon, özel olarak tasarlanmış bir Discord botudur. Bu bot, çeşitli özellikler sunarak Discord sunucunuzda interaktif bir deneyim sağlar. Bot, özellikle eğlenceli komutlar, kullanıcı etkileşimleri ve kişisel asistan özellikleriyle dikkat çeker.
 
